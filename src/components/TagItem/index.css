@@ -1,0 +1,19 @@
+.tag-item {
+  margin-left: 10px;
+}
+.tag-btn {
+  background-color: transparent;
+  border: 1px #f1f5f9 solid;
+  border-radius: 40px;
+  color: #f8fafc;
+  font-size: 15px;
+  height: 32px;
+  padding: 2px 15px;
+  outline: none;
+  cursor: pointer;
+}
+.selected-tag {
+  border: 0;
+  background-color: #f3aa4e;
+  color: #ffffff;
+}
